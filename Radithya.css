@@ -1,0 +1,488 @@
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v39_2 {
+    width: 100%;
+    height: 748px;
+    background: rgba(42,42,42,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v39_3 {
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,23,8,1));
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  .v39_4 {
+    width: 141px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 19px;
+    left: 1061px;
+    font-family: Pacifico;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v39_5 {
+    width: 200px;
+    height: 100px;
+    background: rgba(196,196,196,0);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(98,23,8,1);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+  }
+  .v39_6 {
+    width: 200px;
+    height: 100px;
+    background: rgba(196,196,196,0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    border: 1px solid rgba(98,23,8,1);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+  }
+  .v39_7 {
+    width: 200px;
+    height: 100px;
+    background: rgba(196,196,196,0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    border: 1px solid rgba(98,23,8,1);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+  }
+  .v39_8 {
+    width: 92px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 33px;
+    left: 51px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 28px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v39_9 {
+    width: 156px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 16px;
+    left: 222px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 28px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v39_10 {
+    width: 135px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 33px;
+    left: 432px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 28px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v39_12 {
+    width: 75px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 156px;
+    left: 1176px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  * {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v43_2 {
+    width: 100%;
+    height: 2845px;
+    background: rgba(42,42,42,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v43_11 {
+    width: 100%;
+    height: 450px;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,23,8,1));
+    opacity: 1;
+    position: absolute;
+    top: 71px;
+    left: 35px;
+    overflow: hidden;
+  }
+  .v43_12 {
+    width: 100%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 106px;
+    left: 77px;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v43_13 {
+    width: 341px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 393px;
+    left: 869px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 96px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v43_18 {
+    width: 424px;
+    height: 100%;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,22,7,0.20000000298023224));
+    opacity: 1;
+    position: absolute;
+    top: 521px;
+    left: 420px;
+    overflow: hidden;
+  }
+  .v43_14 {
+    width: 1000px;
+    height: 666px;
+    background: url("./Skills/SKILL001.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 567px;
+    left: 135px;
+    overflow: hidden;
+  }
+  .v43_15 {
+    width: 1000px;
+    height: 667px;
+    background: url("./Skills/SKILL002.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1324px;
+    left: 135px;
+    overflow: hidden;
+  }
+  .v43_16 {
+    width: 1000px;
+    height: 666px;
+    background: url("./Skills/SKILL003.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2081px;
+    left: 132px;
+    overflow: hidden;
+  }
+  * {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: #ededed;
+    font-family: "Lato", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  .container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .skillset {
+    margin-top: 100px;
+  }
+  
+  .skill-lockup {
+    max-width: 450px;
+    width: 100%;
+    float: left;
+    margin-right: 40px;
+  }
+  
+  .mr {
+    margin-right: 0;
+  }
+  
+  .mb {
+    margin-bottom: 5px;
+  }
+  
+  .skill-info {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .skill-name {
+    float: left;
+    color: #666;
+  }
+  
+  .skill-status {
+    float: right;
+    color: #c4c4c4;
+    font-size: 0.8em;
+  }
+  .skill-bar {
+    display: block;
+    max-width: 450px;
+    width: 100%;
+    height: 5px;
+    background: #e3e3e5;
+    clear: both;
+    margin: 20px 0;
+  }
+  
+  .skill-level {
+    display: table;
+    height: 5px;
+  }
+  .communication,
+  .planning,
+  .learning,
+  .programming,
+  .visual-design,
+  .ux-design {
+    background: #c6a60e;
+  }
+  
+  .communication {
+    width: 60%;
+    -webkit-animation: communication 10s linear;
+    animation: communication 10s linear;
+  }
+  
+  .planning {
+    width: 55%;
+    -webkit-animation: planning 10s linear;
+    animation: planning 10s linear;
+  }
+  
+  .learning {
+    width: 45%;
+    -webkit-animation: learning 10s linear;
+    animation: learning 10s linear;
+  }
+  
+  .programming {
+    width: 30%;
+    -webkit-animation: programming 10s linear;
+    animation: programming 10s linear;
+  }
+  
+  .visual-design {
+    width: 20%;
+    -webkit-animation: visual-design 10s linear;
+    animation: visual-design 10s linear;
+  }
+  
+  .ux-design {
+    width: 10%;
+    -webkit-animation: ux-design 10s linear;
+    animation: ux-design 10s linear;
+  }
+  
+  /*-----------------------
+            Animations 
+  -------------------------*/
+  @-webkit-keyframes communication {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 40%;
+    }
+  }
+  
+  @keyframes communication {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 40%;
+    }
+  }
+  
+  /*-----------------------
+      Planning Animation 
+  -------------------------*/
+  @-webkit-keyframes planning {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 15%;
+    }
+  }
+  
+  @keyframes planning {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 15%;
+    }
+  }
+  
+  /*-----------------------
+      Learning Animation 
+  -------------------------*/
+  @-webkit-keyframes learning {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 45%;
+    }
+  }
+  
+  @keyframes learning {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 45%;
+    }
+  }
+  
+  /*-----------------------
+    Programming Animation 
+  -------------------------*/
+  @-webkit-keyframes programming {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 30%;
+    }
+  }
+  
+  @keyframes programming {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 30%;
+    }
+  }
+  
+  /*-----------------------
+  Visual-Design Animation  
+  -------------------------*/
+  @-webkit-keyframes visual-design {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 20%;
+    }
+  }
+  
+  @keyframes visual-design {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 20%;
+    }
+  }
+  
+  /*-----------------------
+     UX-Design Animation  
+  -------------------------*/
+  @-webkit-keyframes ux-design {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 10%;
+    }
+  }
+  
+  @keyframes ux-design {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 10%;
+    }
+  }
+  
+  /*-----------------------
+        Media queries
+  -------------------------*/
+  
+  @media screen and (max-width: 955px) {
+    .skillset {
+      padding: 20px;
+    }
+    .skill-lockup {
+      max-width: 700px;
+      width: 100%;
+      float: none;
+      margin: 0 auto;
+    }
+  
+    .skill-bar {
+      max-width: 700px;
+      width: 100%;
+    }
+  }
+  
+  

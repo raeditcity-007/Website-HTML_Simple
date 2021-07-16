@@ -1,0 +1,394 @@
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .v48_2 {
+    width: 100%;
+    height: 3185px;
+    background: rgba(42,42,42,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v48_31 {
+    width: 100%;
+    height: 265px;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,23,8,1));
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v48_36 {
+    width: 100%;
+    height: 371px;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,23,8,1));
+    opacity: 1;
+    position: absolute;
+    top: 801px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v48_44 {
+    width: 100%;
+    height: 59px;
+    background: linear-gradient(rgba(247,127,0,1), rgba(98,23,8,1));
+    opacity: 1;
+    position: absolute;
+    top: 1773px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v48_32 {
+    width: 100%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 22px;
+    left: 20px;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_33 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F03.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 854px;
+    overflow: hidden;
+  }
+  .v48_34 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F01.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 35px;
+    overflow: hidden;
+  }
+  .v48_35 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F02.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 445px;
+    overflow: hidden;
+  }
+  .v48_41 {
+    width: 623px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 727px;
+    left: 572px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_37 {
+    width: 100%;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 805px;
+    left: 35px;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: justify;
+  }
+  .v48_38 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F04.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1203px;
+    left: 35px;
+    overflow: hidden;
+  }
+  .v48_39 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F06.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1203px;
+    left: 854px;
+    overflow: hidden;
+  }
+  .v48_40 {
+    width: 340px;
+    height: 425px;
+    background: url("./SHOP/F05.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1203px;
+    left: 445px;
+    overflow: hidden;
+  }
+  .v48_42 {
+    width: 750px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1626px;
+    left: 35px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_45 {
+    width: 727px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1847px;
+    left: 469px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_46 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F07.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1925px;
+    left: 23px;
+    overflow: hidden;
+  }
+  .v48_47 {
+    width: 280px;
+    height: 279px;
+    background: url("./SHOP/F10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1925px;
+    left: 931px;
+    overflow: hidden;
+  }
+  .v48_48 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F09.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1925px;
+    left: 630px;
+    overflow: hidden;
+  }
+  .v48_49 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F08.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1925px;
+    left: 329px;
+    overflow: hidden;
+  }
+  .v48_50 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2234px;
+    left: 23px;
+    overflow: hidden;
+  }
+  .v48_52 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F14.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2234px;
+    left: 931px;
+    overflow: hidden;
+  }
+  .v48_53 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2234px;
+    left: 329px;
+    overflow: hidden;
+  }
+  .v48_54 {
+    width: 280px;
+    height: 280px;
+    background: url("./SHOP/F13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2234px;
+    left: 630px;
+    overflow: hidden;
+  }
+  .v48_55 {
+    width: 313px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 2514px;
+    left: 23px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_56 {
+    width: 280px;
+    height: 390px;
+    background: url("./SHOP/F15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2621px;
+    left: 23px;
+    overflow: hidden;
+  }
+  .v48_57 {
+    width: 280px;
+    height: 390px;
+    background: url("./SHOP/F16.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2621px;
+    left: 329px;
+    overflow: hidden;
+  }
+  .v48_58 {
+    width: 280px;
+    height: 390px;
+    background: url("./SHOP/F17.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2621px;
+    left: 630px;
+    overflow: hidden;
+  }
+  .v48_59 {
+    width: 280px;
+    height: 390px;
+    background: url("./SHOP/F18.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2621px;
+    left: 931px;
+    overflow: hidden;
+  }
+  .v48_60 {
+    width: 250px;
+    height: 80px;
+    background: rgba(247,127,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 3051px;
+    left: 329px;
+  }
+  .v48_62 {
+    width: 250px;
+    height: 80px;
+    background: rgba(247,127,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 3051px;
+    left: 660px;
+  }
+  .v48_61 {
+    width: 220px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 3069px;
+    left: 344px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v48_65 {
+    width: 108px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 3069px;
+    left: 731px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  
